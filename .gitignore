@@ -54,5 +54,14 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# Yarn Clean file
+.yarnclean
+
 # dotenv environment variables file
 .env
+
+# IntelliJ
+.idea/
+
+# Build output files
+build/
